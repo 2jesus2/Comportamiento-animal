@@ -1,18 +1,21 @@
-
+h2{
+	color:darkblue;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
 h1{
-	color: darkviolet;
+	color: darkblue;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 }
 
 p{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	font-size: 24px;
-	color:mediumblue;
+	color:black;
 }
 
 body{
 	
-	background-color:darkgray;
+	background-color:lightgreen;
 }
 
 
